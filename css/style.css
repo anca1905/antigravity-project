@@ -188,8 +188,8 @@ a {
 }
 
 .blob-2 {
-    bottom: 10%;
-    right: -10%;
+    top: 40%;
+    left: 50%;
     width: 40vw;
     height: 40vw;
     background: #93C5FD;
@@ -842,9 +842,9 @@ a {
         /* Tombol WA full width enak dijempol */
     }
 
-    .blob-2 {
+    /* .blob-2 {
         display: none;
-    }
+    } */
 }
 
 /* --- MOBILE MENU OVERLAY --- */
@@ -1071,7 +1071,7 @@ textarea.form-control {
         padding-top: 120px;
     }
 
-    .blob-2 {
+    /* .blob-2 {
         display: none;
-    }
+    } */
 }
