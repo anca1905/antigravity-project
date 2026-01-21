@@ -1066,4 +1066,8 @@ textarea.form-control {
     .hero-inner {
         padding-top: 120px;
     }
+
+    .blob-2 {
+        display: none;
+    }
 }
