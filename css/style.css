@@ -841,6 +841,10 @@ a {
         width: 100%;
         /* Tombol WA full width enak dijempol */
     }
+
+    .blob-2 {
+        display: none;
+    }
 }
 
 /* --- MOBILE MENU OVERLAY --- */
